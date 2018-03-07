@@ -1,9 +1,3 @@
-#ANTLR
-*.tokens
-*Listener.py
-*Parser.py
-*Lexer.py
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
