@@ -31,7 +31,7 @@
  * Notes: This has been modified to fit a custom language. The license
  * remains unchanged.
  */
-grammar chipy8;
+grammar Chipy8;
 
 tokens { INDENT, DEDENT }
 
