@@ -5,8 +5,8 @@
 
 import sys
 from antlr4 import *
-from Chipy8Lexer import Chipy8Lexer
-from Chipy8Parser import Chipy8Parser
+from .Chipy8Lexer import Chipy8Lexer
+from .Chipy8Parser import Chipy8Parser
  
 def main(argv):
     input = FileStream(argv[1])

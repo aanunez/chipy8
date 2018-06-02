@@ -37,3 +37,10 @@ Removed:
 * Imaginary numbers
 * Matrix stuff
 * Other stuff I forgot I took out
+
+
+#### Reminders
+
+    sudo apt install antlr4
+    sudo pip3 install antlr4-python3-runtime
+
